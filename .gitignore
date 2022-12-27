@@ -1,0 +1,5 @@
+.env
+venv
+levels.json
+.envPROD
+cogs/__pycache__
